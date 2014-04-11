@@ -1,0 +1,1 @@
+This module is rewritten and adopted port of https://github.com/abraham/twitteroauth
